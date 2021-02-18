@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Dashboard - Aplikasi Pendaftaran Siswa</title>
+    <title>Beranda - Aplikasi Pendaftaran Siswa</title>
 
     <!gambar title>
     <link rel= "icon" type="image/png" href = "../asset/img/planes.PNG">
